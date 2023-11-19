@@ -1,6 +1,6 @@
 package Pattern12;
 
-public class CompositePatternExample {
+public class Main12 {
     public static void main(String[] args){
         VideoComponent video1 = new VideoFile("v1.mp4");
         VideoComponent video2 = new VideoFile("v2.mp4");
